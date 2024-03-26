@@ -1,4 +1,5 @@
-# mi-primer-repositorio-en-equipo
 
-Trabajo en Equipo
-Gastón Andrada
+
+# Trabajo colaborativo
+# Gastón Andrada
+# Esteban Karlen Aguirre
